@@ -1,3 +1,7 @@
 #story{
   display: none;
 }
+
+button {
+  box-shadow: 0px 2px 10px #222;
+}
